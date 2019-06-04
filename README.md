@@ -6,6 +6,7 @@
 * OWASP Stammtisch Karlsruhe 06.05.2019
 * Entwicklertag Karlsruhe 03.06.2019
 
+upcoming:
 
 * heise devsec 25.09.2019
 * W-JAX ##.11.2019
