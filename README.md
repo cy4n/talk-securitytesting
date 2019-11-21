@@ -17,3 +17,7 @@ also available on slideshare: https://www.slideshare.net/ChristianKhn8/automated
 
 the deliberately vulnerable demo application can be found [here: cy4n/broken](https://github.com/cy4n/broken)
 
+if you want to see the whole talk there are recordings in
+
+German: [from Karlsruher Entwicklertag 2019](https://www.youtube.com/watch?v=jdud1En_SOU)
+English: [from Chaos Communication Camp 2019](https://media.ccc.de/v/Camp2019-10181-automated_security_testing_for_software_developers_who_dont_know_security) 
